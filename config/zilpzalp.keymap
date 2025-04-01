@@ -53,10 +53,10 @@
             label = "SYM";
 
             bindings = <
-                               &kp GRAVE      &kp DQT        &kp DOT          &kp RBKT       &kp LBKT       &kp BACKSLASH  &kp PIPE       &kp SLASH
-                &kp EXCL       &kp AT         &kp HASH       &kp DOLLAR       &kp RPAR       &kp LPAR       &kp AMPERSAND  &kp ASTERISK   &kp PERCENT    &kp CARET
+                               &kp GRAVE      &kp DQT        &kp DOT          &kp LBKT       &kp RBKT       &kp BACKSLASH  &kp PIPE       &kp SLASH
+                &kp EXCL       &kp AT         &kp HASH       &kp DOLLAR       &kp LPAR       &kp RPAR       &kp AMPERSAND  &kp ASTERISK   &kp PERCENT    &kp CARET
                                &kp TILDE      &kp SQT        &kp UNDERSCORE                                 &kp MINUS      &kp PLUS       &kp EQUAL
-                                                             &kp RBRC         &kp LBRC       &trans         &trans
+                                                             &kp LBRC         &kp RBRC       &trans         &trans
             >;
         };
 #ifdef ZILPZALP_BLE_FLAG

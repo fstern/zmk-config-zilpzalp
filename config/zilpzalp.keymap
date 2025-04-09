@@ -26,7 +26,7 @@
                                &kp W          &kp E          &kp R          &kp T          &kp Y          &kp U          &kp I          &kp O
                 &hl LCTRL A    &hl LALT S     &hl LGUI D     &hl LSHFT F    &hl RALT G     &hr RALT H     &hr RSHFT J    &hr RGUI K     &hr LALT L     &hr RCTRL P
                                &kp X          &kp C          &kp V                                        &kp M          &comsem        &dotcol
-                                                             &my_lt NUM ESC &my_lt NAV SPACE &my_lt SYM N &my_lt FUN RET
+                                                             &my_lt NUM ESC &my_lt NAV SPACE &my_lt SYM RET  &my_lt FUN N
             >;
         };
         numbers {
